@@ -1,0 +1,8 @@
+D:\facultate\an 2\sem 2\SGBD\lab\lab4\ConsoleApp1Lab4\ConsoleApp1Lab4\bin\Debug\ConsoleApp1Lab4.exe.config
+D:\facultate\an 2\sem 2\SGBD\lab\lab4\ConsoleApp1Lab4\ConsoleApp1Lab4\bin\Debug\ConsoleApp1Lab4.exe
+D:\facultate\an 2\sem 2\SGBD\lab\lab4\ConsoleApp1Lab4\ConsoleApp1Lab4\bin\Debug\ConsoleApp1Lab4.pdb
+D:\facultate\an 2\sem 2\SGBD\lab\lab4\ConsoleApp1Lab4\ConsoleApp1Lab4\obj\Debug\ConsoleApp1Lab4.csproj.AssemblyReference.cache
+D:\facultate\an 2\sem 2\SGBD\lab\lab4\ConsoleApp1Lab4\ConsoleApp1Lab4\obj\Debug\ConsoleApp1Lab4.csproj.SuggestedBindingRedirects.cache
+D:\facultate\an 2\sem 2\SGBD\lab\lab4\ConsoleApp1Lab4\ConsoleApp1Lab4\obj\Debug\ConsoleApp1Lab4.csproj.CoreCompileInputs.cache
+D:\facultate\an 2\sem 2\SGBD\lab\lab4\ConsoleApp1Lab4\ConsoleApp1Lab4\obj\Debug\ConsoleApp1Lab4.exe
+D:\facultate\an 2\sem 2\SGBD\lab\lab4\ConsoleApp1Lab4\ConsoleApp1Lab4\obj\Debug\ConsoleApp1Lab4.pdb
